@@ -19,9 +19,9 @@
   <body>
     <br>
     <div class="container">
-      <h1>Play Together! :]</h1>
-      <p>One person creates a game and sends the link!</p>
-      <h3>Join Game</h3>
+      <h1>Lass uns zusammen Uno spielen! :]</h1>
+      <p>Eine Person muss einen Link erstellen!</p>
+      <h3>Mitspielen</h3>
       <form action="javaScript:gotoURL()" method="get" name="url2go">
         <!-- Modified from https://forums.asp.net/t/1761548.aspx?URL+from+Textbox+Button+onClick -->
         <input type="text" name="go" size="50" class="mx-auto" placeholder="Enter URL">
